@@ -43,7 +43,4 @@ Press q to quit the webcam.
 ## 🔒 License
 MIT License
 
-✅ **Emotion Detection Project: COMPLETE**
-
-Let me know if you want me to **zip and send** it or start coding the **AI Virtual Mouse** project now.
 
